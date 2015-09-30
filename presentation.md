@@ -9,21 +9,16 @@
 
 # Git Rebase
 
-- **git show**
-- **git commit --amend**
-- **git rebase**
+- **git show** - Shows one or more objects (blobs, trees, tags, and commits)
+- **git commit --amend** - Replace the tip of the current branch by creating a new commit
+- **git rebase** - Forward-port local commits to the updated upstream head (what?)
 
 # Git Reflog
 
-- **git reflog**
+- **git reflog** - Manage reflog information (uhhh...)
 
 # Git Fsck
 
-## sources
-
-- [git-scm.com](http://git-scm.com)
-- [Just enough Git to be (less) dangerous](http://eev.ee/blog/2015/04/24/just-enough-git-to-be-less-dangerous/)
-- [Git Basics](https://www.atlassian.com/pt/git/tutorial/git-basics)
-- [Git in six hundred words](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
+- **git fsck** - Verifies the connectivity and validity of the objects in the database
 
 # Questions?
