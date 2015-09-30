@@ -23,6 +23,7 @@
 23. `git checkout master`
 24. `git cherry-pick <commit hash>`
 25. Try to explain what just happened.
+26. Mention issues with rewriting history.
 
 # git reflog
 1. `git reflog` shows all the commits that HEAD has pointed to in the past
