@@ -17,6 +17,12 @@
 16. Edit commit message.
 17. `git log --oneline` and `git show HEAD~1`
 18. Try to explain what just happened (DAG rewritten)
+19. `git checkout -b new-branch`
+21. Make a change to file B. Add and commit.
+22. `git log --oneline` and make a note of the commit hash.
+23. `git checkout master`
+24. `git cherry-pick <commit hash>`
+25. Try to explain what just happened.
 
 # git reflog
 1. `git reflog` shows all the commits that HEAD has pointed to in the past
