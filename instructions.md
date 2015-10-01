@@ -2,9 +2,11 @@
 
 1. `mkdir demo`
 2. `cd demo` and `git init`
+2. Set up GitHub repo and configure remote.
 3. `vim a.txt` and enter 'This is file A'
 4. `vim b.txt` and enter 'This is file B'
 5. `git add a.txt` and `git commit -m "Initial commit."`
+6. `git push origin master`
 6. `git add b.txt` and `git commit -m "Add b.txt"`
 7. Make a change to file B.
 8. `git show HEAD`
