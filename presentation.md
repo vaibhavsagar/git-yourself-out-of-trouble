@@ -6,6 +6,7 @@
 - Collection of `git` curiousities
 - Real or quasi-real examples
 - Less puns
+- Assumes prior `git` experience, unlike my last talk.
 
 # Git Rebase
 
