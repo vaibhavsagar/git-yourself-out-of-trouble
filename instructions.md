@@ -1,3 +1,5 @@
+# git add --patch
+
 # git rebase
 
 1. `mkdir demo`
