@@ -9,6 +9,9 @@
 - Assumes prior `git` experience, unlike my last talk.
 
 # Git Add
+
+- **git add --patch** - Interactively choose hunks of patch between the index and the work tree and add them to the index. This gives the user a chance to review the difference before adding modified contents to the index.
+
 # Git Rebase
 
 - **git show** - Shows one or more objects (blobs, trees, tags, and commits)
