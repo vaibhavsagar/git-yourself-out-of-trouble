@@ -8,6 +8,7 @@
 - Less puns
 - Assumes prior `git` experience, unlike my last talk.
 
+# Git Add
 # Git Rebase
 
 - **git show** - Shows one or more objects (blobs, trees, tags, and commits)
