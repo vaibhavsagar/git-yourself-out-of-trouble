@@ -7,6 +7,7 @@
 3. Set up GitHub repo and configure remote.
 4. add, commit, push.
 5. Edit file A with 'This is a change' and 'this is a conceptually different change'.
+6. `git diff`
 
 # git rebase
 
