@@ -8,6 +8,7 @@
 4. Remind everyone of add, commit, push.
 5. `touch a.txt`
 6. `git add a.txt`
+7. Edit file A with 'This is a change' and 'this is a conceptually different change'.
 
 # git rebase
 
