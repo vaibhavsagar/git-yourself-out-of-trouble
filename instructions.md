@@ -10,6 +10,7 @@
 6. `git add a.txt`
 7. Edit file A with 'This is a change' and 'this is a conceptually different change'.
 8. `git diff --patch` and '?' for help
+9. Hit 's' a few times and settle on 'e'.
 # git rebase
 
 9. Make a change to file B.
