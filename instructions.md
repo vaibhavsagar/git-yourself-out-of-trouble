@@ -7,7 +7,7 @@
 3. Set up GitHub repo and configure remote.
 4. Remind everyone of add, commit, push.
 5. `touch a.txt`
-6. `git add a.txt`
+6. `git add a.txt` and `git commit -m "Initial commit."`
 7. Edit file A with 'This is a change' and 'this is a conceptually different change'.
 8. `git diff --patch` and '?' for help
 9. Hit 's' a few times and settle on 'e'.
