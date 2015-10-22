@@ -11,7 +11,7 @@
 7. Make another change.
 8. `git add a.txt` and `git commit -m "First change."`
 7. Edit file A with 'This is a change' right at the top and 'this is a conceptually different change' at the bottom.
-9. Hit 's' a few times and settle on 'e'.
+8. `git add --patch` and '?' for help
 10. Edit the appropriate hunk.
 
 # git rebase
