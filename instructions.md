@@ -14,6 +14,7 @@
 8. `git add --patch` and '?' for help
 9. Accept the first hunk.
 10. `git status`
+11. `git diff` and `git diff --staged`
 
 # git rebase
 
