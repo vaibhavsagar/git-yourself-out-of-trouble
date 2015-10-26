@@ -15,6 +15,7 @@
 9. Accept the first hunk.
 10. `git status`
 11. `git diff` and `git diff --staged`
+12. Mention other subcommands that take a '--patch' command.
 
 # git rebase
 
