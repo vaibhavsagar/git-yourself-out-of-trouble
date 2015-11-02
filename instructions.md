@@ -1,7 +1,5 @@
 # git add --patch
 
-# git rebase
-
 1. `mkdir demo`
 2. `cd demo` and `git init`
 3. Set up GitHub repo and configure remote.
