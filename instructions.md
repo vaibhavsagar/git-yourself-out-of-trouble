@@ -8,12 +8,12 @@
 6. `git add a.txt` and `git commit -m "Initial commit."`
 7. Make another change.
 8. `git add a.txt` and `git commit -m "First change."`
-7. Edit file A with 'This is a change' right at the top and 'this is a conceptually different change' at the bottom.
+7. Edit file A with 'This is a change' at the very top and 'this is a conceptually different change' at the very bottom.
 8. `git add --patch` and '?' for help
 9. Accept the first hunk.
 10. `git status`
 11. `git diff` and `git diff --staged`
-12. Mention other subcommands that take a '--patch' command.
+12. Mention other subcommands that take a '--patch' command (`checkout` and `reset`).
 13. Mention Fugitive and Magit.
 
 # git rebase
