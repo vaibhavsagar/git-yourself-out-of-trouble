@@ -43,6 +43,8 @@
 3. `git log --oneline`
 4. You probably don't need this, but when you do, you do.
 
+# git bisect
+
 # git fsck
 
 1. `git clone git@github.com:vaibhavsagar/reactive-coursera.git`
