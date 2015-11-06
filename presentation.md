@@ -23,6 +23,10 @@
 
 - **git reflog** - Manage reflog information (uhhh...)
 
+# Git Bisect
+
+- **git bisect** -  Use binary search to find the commit that introduced a bug
+
 # Git Fsck
 
 - **git fsck** - Verifies the connectivity and validity of the objects in the database
