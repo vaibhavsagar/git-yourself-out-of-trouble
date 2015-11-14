@@ -18,24 +18,24 @@
 
 # git rebase
 
-9. Make a change to file B.
-10. `git show HEAD`
-11. Amend commit: `git add b.txt`, `git commit --amend`
-12. `git show HEAD`
-13. Make a change to file A. Add and commit.
-14. `git log --oneline`
-15. `git rebase -i --root`
-16. Move last commit to second position and squash.
-17. Edit commit message.
-18. `git log --oneline` and `git show HEAD~1`
-19. Try to explain what just happened (DAG rewritten)
-20. `git checkout -b new-branch`
-21. Make a change to file B. Add and commit.
-22. `git log --oneline` and make a note of the commit hash.
-23. `git checkout master`
-24. `git cherry-pick <commit hash>`
-25. Try to explain what just happened.
-26. Mention issues with rewriting history.
+1. Make a change to file B.
+2. `git show HEAD`
+3. Amend commit: `git add b.txt`, `git commit --amend`
+4. `git show HEAD`
+5. Make a change to file A. Add and commit.
+6. `git log --oneline`
+7. `git rebase -i --root`
+8. Move last commit to second position and squash.
+9. Edit commit message.
+10. `git log --oneline` and `git show HEAD~1`
+11. Try to explain what just happened (DAG rewritten)
+12. `git checkout -b new-branch`
+13. Make a change to file B. Add and commit.
+14. `git log --oneline` and make a note of the commit hash.
+15. `git checkout master`
+16. `git cherry-pick <commit hash>`
+17. Try to explain what just happened.
+18. Mention issues with rewriting history.
 
 # git reflog
 1. `git reflog` shows all the commits that HEAD has pointed to in the past
@@ -62,4 +62,3 @@
 13. `git fsck --lost-found`
 14. Inspect the contents of `.git/lost-found/other`
 15. REJOICE!
-
