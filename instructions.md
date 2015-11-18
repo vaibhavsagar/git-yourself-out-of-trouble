@@ -44,6 +44,7 @@
 4. You probably don't need this, but when you do, you do.
 
 # git bisect
+1. Clone sample repo with buggy HEAD
 
 # git fsck
 
