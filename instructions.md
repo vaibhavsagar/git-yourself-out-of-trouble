@@ -45,6 +45,7 @@
 
 # git bisect
 1. Clone sample repo with buggy HEAD
+2. Explain git bisect.
 
 # git fsck
 
