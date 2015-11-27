@@ -22,7 +22,7 @@
 2. `cd demo` and `git init`
 3. Set up GitHub repo and configure remote.
 4. Remind everyone of add, commit, push.
-5. Make a change to file A. Add and commit.
+5. `touch a.txt`
 6. `git log --oneline`
 7. `git rebase -i --root`
 8. Move last commit to second position and squash.
