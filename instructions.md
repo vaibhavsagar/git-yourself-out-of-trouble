@@ -28,6 +28,7 @@
 8. Move last commit to second position and squash.
 9. Edit commit message.
 10. `git log --oneline` and `git show HEAD~1`
+9. Make a change to b.txt.
 11. Try to explain what just happened (DAG rewritten)
 12. `git checkout -b new-branch`
 13. Make a change to file B. Add and commit.
