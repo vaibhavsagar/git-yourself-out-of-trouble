@@ -24,7 +24,7 @@
 4. Remind everyone of add, commit, push.
 5. `touch a.txt`
 6. `git add a.txt` and `git commit -m "Initial commit."`
-7. `git rebase -i --root`
+7. `touch b.txt`
 8. Move last commit to second position and squash.
 9. Edit commit message.
 10. `git log --oneline` and `git show HEAD~1`
