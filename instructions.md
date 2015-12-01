@@ -25,7 +25,7 @@
 5. `touch a.txt`
 6. `git add a.txt` and `git commit -m "Initial commit."`
 7. `touch b.txt`
-8. Move last commit to second position and squash.
+8. `git add b.txt` and `git commit -m "Add b.txt"`
 9. Edit commit message.
 10. `git log --oneline` and `git show HEAD~1`
 9. Make a change to b.txt.
