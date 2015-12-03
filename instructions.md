@@ -27,7 +27,7 @@
 7. `touch b.txt`
 8. `git add b.txt` and `git commit -m "Add b.txt"`
 7. Make a change to a.txt.
-10. `git log --oneline` and `git show HEAD~1`
+8. `git add a.txt` and `git commit -m "Make a change to a.txt"`
 9. Make a change to b.txt.
 11. Try to explain what just happened (DAG rewritten)
 12. `git checkout -b new-branch`
