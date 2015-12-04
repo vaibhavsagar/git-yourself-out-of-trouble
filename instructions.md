@@ -29,6 +29,7 @@
 7. Make a change to a.txt.
 8. `git add a.txt` and `git commit -m "Make a change to a.txt"`
 9. Make a change to b.txt.
+10. `git add b.txt` and `git commit -m "Make a change to b.txt"`
 11. Try to explain what just happened (DAG rewritten)
 12. `git checkout -b new-branch`
 13. Make a change to file B. Add and commit.
