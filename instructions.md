@@ -31,7 +31,7 @@
 9. Make a change to b.txt.
 10. `git add b.txt` and `git commit -m "Make a change to b.txt"`
 11. `git push origin master`
-11. Try to explain what just happened (DAG rewritten)
+12. Decide changes to b.txt should be one commit.
 12. `git checkout -b new-branch`
 13. Make a change to file B. Add and commit.
 14. `git log --oneline` and make a note of the commit hash.
