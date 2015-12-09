@@ -33,6 +33,7 @@
 11. `git push origin master`
 12. Decide changes to b.txt should be one commit.
 13. `git rebase -i HEAD~3`
+14. Explain pick, squash, drop, etc.
 12. `git checkout -b new-branch`
 13. Make a change to file B. Add and commit.
 14. `git log --oneline` and make a note of the commit hash.
