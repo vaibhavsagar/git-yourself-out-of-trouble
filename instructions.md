@@ -52,6 +52,7 @@
 1. Clone sample repo with buggy HEAD
 2. Explain git bisect.
 3. `git bisect start HEAD <commit-hash>`
+4. `git bisect bad`, `git bisect good`, etc.
 
 # git fsck
 
