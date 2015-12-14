@@ -35,6 +35,7 @@
 13. `git rebase -i HEAD~3`
 14. Explain pick, squash, drop, etc.
 15. Reorder and squash commits.
+16. Try to explain what just happened (DAG rewritten)
 13. Make a change to file B. Add and commit.
 14. `git log --oneline` and make a note of the commit hash.
 15. `git checkout master`
