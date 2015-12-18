@@ -39,6 +39,7 @@
 17. Attempt to `git push`.
 18. Explain error about non-fast-forward.
 19. Try to explain force pushing.
+20. `git push -f`
 13. Make a change to file B. Add and commit.
 14. `git log --oneline` and make a note of the commit hash.
 15. `git checkout master`
