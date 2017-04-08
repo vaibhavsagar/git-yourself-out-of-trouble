@@ -41,12 +41,13 @@
 19. Try to explain force pushing.
 20. `git push -f`
 21. NEVER DO THIS!
-13. Make a change to file B. Add and commit.
-14. `git log --oneline` and make a note of the commit hash.
-15. `git checkout master`
-16. `git cherry-pick <commit hash>`
-17. Try to explain what just happened.
-18. Mention issues with rewriting history.
+22. `git checkout -b new-branch`
+23. Make a change to file B. Add and commit.
+24. `git log --oneline` and make a note of the commit hash.
+25. `git checkout master`
+26. `git cherry-pick <commit hash>`
+27. Try to explain what just happened.
+28. Mention issues with rewriting history.
 
 # git reflog
 1. `git reflog` shows all the commits that HEAD has pointed to in the past
